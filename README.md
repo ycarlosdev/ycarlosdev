@@ -30,7 +30,6 @@ Combino **pensamiento analítico y enfoque práctico** para diseñar proyectos e
 
 ## 📫 Contacto  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+53 51430275)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@yanatsu)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycarlosdev)  
 [![Email](https://img.shields.io/badge/Email-ycarlosdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycarlosdev@gmail.com)
