@@ -20,11 +20,7 @@ Combino **pensamiento analítico y enfoque práctico** para diseñar proyectos e
 ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Selectolax](https://img.shields.io/badge/Selectolax-0F172A?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-3a7ab4?style=for-the-badge&logo=python&logoColor=white)  
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-3a7ab4?style=for-the-badge&logo=python&logoColor=white)![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ---
 
