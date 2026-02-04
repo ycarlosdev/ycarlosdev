@@ -4,6 +4,7 @@
 
 Soy un **Desarrollador Python** apasionado por la **automatización de procesos, el web scraping y la creación de aplicaciones inteligentes** que transforman datos en soluciones reales.  
 He desarrollado herramientas capaces de **extraer, procesar y visualizar información** de múltiples fuentes web, integrando tecnologías modernas y buenas prácticas de ingeniería de software.  
+
 ---
 
 ## 🛠️ Stack & Tecnologías  
