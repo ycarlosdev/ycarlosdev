@@ -1,38 +1,19 @@
 # 🧑‍💻 Yan Carlos Morejón
 
-**Desarrollador Python** | Automatización · Web Scraping · Aplicaciones Web
+**Desarrollador Python** | Automatización · Web Scraping · Análisis de datos · Aplicaciones Web
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-Desarrollador Python con experiencia práctica en la creación de **herramientas de automatización, web scraping, bots y aplicaciones web ligeras**.  
+Desarrollador Python con experiencia práctica en la creación de **herramientas de automatización, web scraping, análisis de datos y aplicaciones web ligeras**.  
 Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, capaces de transformar datos y tareas repetitivas en sistemas eficientes y reutilizables.
-
-Trabajo principalmente con Python, utilizando el desarrollo web como soporte para **exponer datos, crear dashboards y construir interfaces simples** cuando el proyecto lo requiere.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes
-- Python
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Librerías y herramientas
-- Playwright  
-- Pandas  
-- NumPy  
-- Streamlit  
-
-### Desarrollo Web
-- HTML  
-- CSS  
-
-### Flujo de trabajo
-- Git & GitHub  
-- Entornos virtuales  
-- Estructuras de proyecto limpias y mantenibles  
-
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
