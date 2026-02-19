@@ -20,7 +20,7 @@ Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, c
 ---
 
 ### Tecnologías
-
+<div>
 <div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap;margin-bottom:10px;">
   <div style="display:inline-block;text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="display:block;margin:0 auto;" />
@@ -52,6 +52,7 @@ Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, c
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" style="display:block;margin:0 auto;" />
     <div style="font-size:12px;margin-top:6px">Pandas</div>
   </div>
+</div>
 </div>
 
 ---
