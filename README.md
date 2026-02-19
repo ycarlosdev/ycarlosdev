@@ -32,7 +32,7 @@ Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, c
   </div>
 </div>
 
-<div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap;margin-bottom:10px;">
+<div style="display:flex;gap:20px;align-items:center;flex-wrap:no-wrap;margin-bottom:10px;">
   <div style="display:inline-block;text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="display:block;margin:0 auto;" />
     <div style="font-size:12px;margin-top:6px">Flask</div>
@@ -43,7 +43,7 @@ Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, c
   </div>
 </div>
 
-<div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap;">
+<div style="display:flex;gap:20px;align-items:center;flex-wrap:nowrap;">
   <div style="display:inline-block;text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" style="display:block;margin:0 auto;" />
     <div style="font-size:12px;margin-top:6px">NumPy</div>
