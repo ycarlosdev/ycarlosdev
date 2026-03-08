@@ -2,7 +2,7 @@
 
 **Desarrollador Python** | Automatización · Web Scraping · Análisis de datos · Aplicaciones Web
 
-Desarrollador Python con experiencia práctica en la creación de **herramientas de automatización, web scraping, análisis de datos y aplicaciones web ligeras**.  
+Desarrollador Python con experiencia práctica en la creación de **herramientas de automatización, web scraping, análisis de datos y aplicaciones web**.  
 Me enfoco en construir **soluciones claras, funcionales y bien documentadas**, capaces de transformar datos y tareas repetitivas en sistemas eficientes y reutilizables.
 
 ---
